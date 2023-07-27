@@ -1,0 +1,20 @@
+.App {
+  margin: 0;
+  text-align: center;
+  width: 100%;
+  background-color: #0a0c1b;
+}
+
+.cont{
+  padding: 6rem;
+}
+
+.explicacion{
+  background-color: #1d1939;
+  color: white;
+}
+
+.solucion{
+  background-color: #fffefe;
+  color: black;
+}
